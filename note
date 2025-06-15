@@ -1,0 +1,7 @@
+
+0. build conda env from environment.yaml
+   activate basicenv25
+   
+1. python sfc_energy_balance_refactored.py
+
+2. python sfc_energy_plotting.py
